@@ -49,7 +49,7 @@ Go to File → Open SQL Script and select your .sql file
 Click the Execute (⚡ lightning bolt) button
 The script will run, creating tables and inserting data
 
-##🔹 Method 2: MySQL Command Line
+## 🔹 Method 2: MySQL Command Line
 Open Command Prompt or Terminal
 Run the following command:
 
@@ -63,7 +63,7 @@ Exit and run this command to import the .sql file:
 
 mysql -u root -p music_store < "C:\path\to\music_store.sql"
 
-#🔹 Load .csv File into MySQL
+# 🔹 Load .csv File into MySQL
 ## Option 1: Using LOAD DATA INFILE (faster, needs config)
 Enable file import by checking:
 
@@ -87,7 +87,7 @@ ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
-Option 2: Using MySQL Workbench GUI
+## Option 2: Using MySQL Workbench GUI
 
 Right-click the table → Table Data Import Wizard
 Browse and select the .csv file
