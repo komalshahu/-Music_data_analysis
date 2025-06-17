@@ -99,3 +99,7 @@ Right-click the table → Table Data Import Wizard
 Browse and select the .csv file
 
 Map columns and import
+
+# Music Database Schema 
+
+![]("C:\Users\shahu\Downloads\MusicDatabaseSchema.png")
