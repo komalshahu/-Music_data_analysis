@@ -102,4 +102,6 @@ Map columns and import
 
 # Music Database Schema 
 
-![]("C:\Users\shahu\Downloads\MusicDatabaseSchema.png")
+![](![MusicDatabaseSchema](https://github.com/user-attachments/assets/af3832cb-ac76-4e5a-9ca6-820c58941568)
+![MusicDatabaseSchema](https://github.com/user-attachments/assets/af3832cb-ac76-4e5a-9ca6-820c58941568)
+)
