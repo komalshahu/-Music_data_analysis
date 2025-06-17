@@ -74,9 +74,8 @@ First we need a table with schema for data storing
 
 create table customer(
    name varchar(255)
-   --
-   ---
-   --
+   ...............
+   ..............
    )
    
 Run this command (modify as needed):
